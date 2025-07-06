@@ -1,3 +1,5 @@
 This is Sachin and he is the great tester in the industry and he is working so hard to become a automation tester.
 
 This is sachin's 2nd commit in the branch add-new-feature this shouldn't be visible in the previous branch.
+
+fixed the issue in the 3rd branch and writing this to refer the same.
